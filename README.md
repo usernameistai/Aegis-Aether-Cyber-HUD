@@ -1,6 +1,7 @@
 🛡️ README.md Integration
 
-Since this is the "visual" partner to your π protocol, use this header to link them:
+This is the "visual" partner to the π protocol:
+
 🛸 Aegis Aether // Cyber-HUD
 
     MISSION OVERLAY: Active | SUBSYSTEM: Aegis-Protocol-Link | CORE: Tauri/Rust
