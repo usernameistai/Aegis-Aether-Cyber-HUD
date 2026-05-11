@@ -4,7 +4,7 @@ This is the "visual" partner to the π protocol:
 
 🛸 Aegis Aether // Cyber-HUD
 
-    MISSION OVERLAY: Active | SUBSYSTEM: Aegis-Protocol-Link | CORE: Tauri/Rust
+    CORE: Tauri/Rust | SUBSYSTEM: Aegis-Protocol-Link | MISSION OVERLAY: Active
 
 ⚡ Visual Specs
 
